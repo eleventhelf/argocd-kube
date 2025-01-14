@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: eleventhelf/docker-repo:05887d2
+      - image: eleventhelf/docker-repo:67aba7a
         name: argocd-kube
